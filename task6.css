@@ -21,4 +21,5 @@ main{
 .box{
 	width: 840px;
 	margin: 30px auto;
+	border-bottom: 1px solid;
 }

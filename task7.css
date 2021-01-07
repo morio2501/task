@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+ul{
+	width: 960px;
+	margin: 50px auto;
+	list-style: none;
+}
+.list1{
+	background-color: gray;
+	padding:20px 0 20px 20px;
+}
+.list2{
+	padding:20px 0 20px 20px;
+}
+main{
+	width: 960px;
+	height: 680px;
+	margin: 50px auto;
+
+}
+.box{
+	width: 960px;
+	height: 200px;
+}
+
+.box1{
+	height:200px;
+	width: 30%;
+	background-color: orange;
+	float: left;
+}
+.box2{
+	height:200px;
+	width: 30%;
+	background-color: yellow;
+	float: left;
+	margin: 0 5%;
+}
+.box3{
+	height:200px;
+	width: 30%;
+	background-color: yellow;
+	float: left;
+}
+.box-2{
+	height: 200px;
+	margin-top:40px;
+}
+.box4{
+	height:200px;
+	width: 30%;
+	background-color: yellow;
+	float: left;
+}
+.box5{
+	height:200px;
+	width: 30%;
+	background-color: orange;
+	float: left;
+	margin: 0 5%;
+}
+.box6{
+	height:200px;
+	width: 30%;
+	background-color: yellow;
+	float: left;
+}
+.box-3{
+	margin-top:40px;
+}
+.box7{
+	height:200px;
+	width: 30%;
+	background-color: yellow;
+	float: left;
+}
+.box8{
+	height:200px;
+	width: 30%;
+	background-color: yellow;
+	float: left;
+	margin: 0 5%;
+}
+.box9{
+	height:200px;
+	width: 30%;
+	background-color: orange;
+	float: left;
+}
